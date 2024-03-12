@@ -1,3 +1,23 @@
-# Rock Paper Scissors
+<h1> Rock Paper Scissors Game - ML Python Project</h1>
+<br>
+<h2>Features</h2>
+<li>Bot that is winning at least 60% of the games in each match</li>
+<li>Opponents bot: mrugesh, abbey, quincy, kris, </li>
+<li>Play interactively against a bot</li>
+<li>Play against a bot that plays randomly</li>
+<li>Run unit tests automatically</li>
+<h2>Acknowledgments</h2>
 
-This is the boilerplate for the Rock Paper Scissors project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors
+<b> Python3: http://bit.ly/python3-certifications <b>
+<br>
+
+
+<h2>Photo</h2>
+<img src="photo.png">
+<br>
+
+<h2>Links</h2>
+<li>FreeCodeCamp Project: https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/rock-paper-scissors</li>
+<h2>Contact</h2>
+
+<b> Email: mariusc0023@gmail.com </b>
