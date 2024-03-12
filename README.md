@@ -2,7 +2,7 @@
 <br>
 <h2>Features</h2>
 <li>Bot that is winning at least 60% of the games in each match</li>
-<li>Opponents bot: mrugesh, abbey, quincy, kris, </li>
+<li>Opponents bot: mrugesh, abbey, quincy, kris</li>
 <li>Play interactively against a bot</li>
 <li>Play against a bot that plays randomly</li>
 <li>Run unit tests automatically</li>
