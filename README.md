@@ -10,7 +10,7 @@
 
 <b> Python3: http://bit.ly/python3-certifications <b>
 <br>
-
+<b> Machine Learning: https://bit.ly/machine-learning-certification <b>
 
 <h2>Photo</h2>
 <img src="photo.png">
